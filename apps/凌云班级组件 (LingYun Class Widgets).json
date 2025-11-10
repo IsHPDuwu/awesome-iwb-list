@@ -1,0 +1,24 @@
+{
+  "name": "凌云班级组件 (LingYun Class Widgets)",
+  "description": "功能丰富的桌面工具，专为班级管理和教学设计。支持桌面显示时间、日期、值日表、今明日课程等信息，提供息屏显示、课表编辑、云同步、上下课提醒等功能，适合自习和专注场景。",
+  "platform": "Windows (桌面)",
+  "tags": [
+    "桌面显示",
+    "课程表管理",
+    "息屏显示",
+    "桌面小组件"
+  ],
+  "reviews": [
+    {
+      "author": "2,2,3-三甲基戊烷",
+      "content": "尽管借鉴了CW的部分UI文件，但仍然不失为一个不错的软件，对于一些地方有自己的创新，并且独具一格的息屏显示也是一大卖点，此外还可以显示值日生之类的信息。"
+    }
+  ],
+  "links": {
+    "github_repo": "https://github.com/Yamikani-Flipped/LingYun-Class-Widgets",
+    "developer": {
+      "name": "Yamikani-Flipped",
+      "github": "https://github.com/Yamikani-Flipped"
+    }
+  }
+}

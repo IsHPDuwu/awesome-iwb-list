@@ -1,0 +1,24 @@
+{
+  "name": "Ris_ClassTool 瑞思课堂工具",
+  "description": "A Windows multifunctional dashboard software for interactive teaching machines, built on Electron. It provides class schedule display, countdown, progress tracking, sidebar, focus mode, automatic tasks, PPT page-turning assistance, random attendance, and various teaching utilities.",
+  "platform": "Windows",
+  "tags": [
+    "Electron",
+    "桌面小组件",
+    "课程表",
+    "倒计时",
+    "投票工具",
+    "侧边栏",
+    "PPT批注",
+    "自动任务",
+    "学科文件夹"
+  ],
+  "reviews": [],
+  "links": {
+    "github_repo": "https://github.com/Ris-Soft/Ris_ClassTool",
+    "developer": {
+      "name": "Ris-Soft",
+      "github": "https://github.com/Ris-Soft"
+    }
+  }
+}

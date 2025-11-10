@@ -1,0 +1,41 @@
+{
+  "name": "ENAL 希沃易登",
+  "description": "希沃白板的自动登录插件，通过替代 EasiAgent 来实现多账号自动免密登录。不过这个软件有坑：作为 EasiAgent 的替代品，没有实现 deleteData 和 saveData 接口，导致 SSO 单点登录特性无法使用；使用易语言开发，UI 体验奇怪，有自定义单点登录账户昵称变乱码的 Bug，有时会无限重启；使用火绒安全软件网络修复工具后可能无法使用，需要手动修改 Hosts；请求不走系统代理，需要套一层 mihomo TUN。",
+  "platform": "",
+  "tags": [
+    "登录插件",
+    "自动化",
+    "希沃白板",
+    "多账号"
+  ],
+  "reviews": [
+    {
+      "author": "用户评价",
+      "content": "作为 EasiAgent 的替代品，居然没有实现 deleteData 和 saveData 接口，这导致原版 EasiAgent 的 SSO 单点登录特性，到了 ENAL 这边就没办法用了。如果对单点登录有需求的话，那还是别用 ENAL 了。"
+    },
+    {
+      "author": "技术问题",
+      "content": "软件是用易语言开发的，因此 UI 的使用体验很奇怪，而且还会有自定义单点登录账户昵称后变乱码的 Bug。有时候会遇到无限重启的问题。"
+    },
+    {
+      "author": "兼容性问题",
+      "content": "有的时候使用了火绒安全软件中的网络修复工具后，可能会导致 ENAL 或 EasiAgent 都无法使用，那是因为 local.id.seewo.com 指向 127.0.0.1 的 Hosts 规则被火绒的工具给注释掉了。"
+    },
+    {
+      "author": "网络问题",
+      "content": "ENAL 的请求不走系统代理。所以 Fiddler 记得套一层 mihomo TUN。"
+    },
+    {
+      "author": "替代建议",
+      "content": "综上所述，可以期待逗比画的饼：EasiAuth，该项目基于 WPF/C# 技术栈开发，代码全部开源，使用了最先进的融合接口，多个方法和希沃服务器做账号鉴权，并且提供了 API 接口供第三方软件调用。"
+    }
+  ],
+  "links": {
+    "github_repo": "",
+    "developer": {
+      "name": "Xiaocuitang",
+      "github": "",
+      "website": "iceawa.com"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "ClassNamePicker",
+  "description": "ClassNamePicker 是一款功能强大的课堂随机点名工具。使用 PyQt5 编写，界面简洁。支持从整个班级的名单中随机抽取一人、选择从班级的男生/女生名单中随机抽取一人，可选是否允许重复抽到一人、可保存已抽取过人的名字，并在下次打开后读取，可统计已抽人数、剩余人数、概率、总抽取次数等信息。",
+  "platform": "Cross-platform",
+  "tags": [
+    "education",
+    "random-pick",
+    "classroom",
+    "PyQt5",
+    "Python"
+  ],
+  "reviews": [],
+  "links": {
+    "github_repo": "https://github.com/Chengzi600/ClassNamePicker",
+    "developer": {
+      "name": "Chengzi600",
+      "github": "https://github.com/Chengzi600"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "全能班辅",
+  "description": "显示今天的值日生，小工具，随机点名功能，展示自定义课表。",
+  "platform": "Web",
+  "tags": [
+    "教育",
+    "课堂",
+    "课表",
+    "点名",
+    "小工具"
+  ],
+  "reviews": [],
+  "links": {
+    "github_repo": "https://github.com/XeonMEMZ/qnbf5",
+    "developer": {
+      "name": "XeonMEMZ",
+      "github": "https://github.com/XeonMEMZ"
+    }
+  }
+}

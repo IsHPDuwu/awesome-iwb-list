@@ -1,0 +1,27 @@
+{
+  "name": "ZongziTEK 黑板贴",
+  "description": "用于白板一体机的桌面小部件，享受抬手即用的小黑板、高效的信息展示、便捷的课程管理和多项实用功能，满足班级的各种需求。",
+  "platform": "",
+  "tags": [
+    "课程表",
+    "黑板贴",
+    "粽子科技",
+    "上下课提醒",
+    "天气提醒",
+    "快速黑板",
+    "启动台"
+  ],
+  "reviews": [
+    {
+      "author": "Douxiba",
+      "content": "还行，如果有小黑板需求可以使用，自带的课程表功能个人感觉有点鸡肋，不过也还算好用的，官网也是完全学到了微软式中文。比较推荐（如果不用 CI 的话）"
+    }
+  ],
+  "links": {
+    "github_repo": "https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker",
+    "developer": {
+      "name": "ZongziTEK",
+      "github": "https://github.com/STBBRD"
+    }
+  }
+}

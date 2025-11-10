@@ -1,0 +1,28 @@
+{
+  "name": "Class Widgets",
+  "description": "一款能够显示实时教学进度的桌面组件应用。提供了美观的桌面组件和高度的自定义选项，助力于思考和探索未来中科技与教学的结合。提供了基于Python的插件系统和插件广场，以及彰显个性的主题系统。提供了强大的通知系统，能够在上下课等时间点推出提醒。采用了Fluent Design设计语言，使用了QFluentWidgets UI库。",
+  "platform": "多平台支持",
+  "tags": [
+    "桌面小组件",
+    "课程浮窗",
+    "RinLit",
+    "CICW一家亲",
+    "PyQt",
+    "多平台支持",
+    "上下课提醒",
+    "单双周支持"
+  ],
+  "reviews": [
+    {
+      "author": "Douxiba",
+      "content": "非常好 RinLit 小南梁，让我爱上 课堂组件。 看到 UI 上有能和 CI 抗衡的也是比较欣慰了，不过目前来说还需要更多优化，部分功能还不是太完善，还有作为一个 Qt 写的软件，总感觉用起来有点小别扭（应该是 Qt 的特性）。不过开发与更新速度也挺快，比较期待， 但是目前来说我肯定是不会正式在教学环境使用的 （真心动了，等软件显示缩放功能出来了马上换，不换早晚被撅 😋）。"
+    }
+  ],
+  "links": {
+    "github_repo": "https://github.com/RinLit-233-shiroko/Class-Widgets",
+    "developer": {
+      "name": "RinLit",
+      "github": "https://github.com/RinLit-233-shiroko"
+    }
+  }
+}

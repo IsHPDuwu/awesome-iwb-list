@@ -1,0 +1,22 @@
+{
+  "name": "LockTime",
+  "description": "A deep/light theme, mica/acrylic background (if supported), Fluent UI 2 interface clock screensaver for Windows 7 and above. Can be used as a screensaver or on a teaching whiteboard. Supports adjusting the time position, custom display format, font, size, and color.",
+  "platform": "Windows 7 and above",
+  "tags": [
+    "Windows",
+    "Screensaver",
+    "Clock",
+    "Fluent UI",
+    "Mica",
+    "Acrylic",
+    "Theme"
+  ],
+  "reviews": [],
+  "links": {
+    "github_repo": "https://github.com/cjhdevact/LockTime",
+    "developer": {
+      "name": "CJH",
+      "github": "cjhdevact"
+    }
+  }
+}

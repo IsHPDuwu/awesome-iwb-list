@@ -1,0 +1,27 @@
+{
+  "name": "NamePicker",
+  "description": "NamePicker 是用 Python 开发的一款简洁的点名软件。提供了最基本的点名功能，还提供了人性化的配置修改界面，支持从外部读取名单，支持特殊的点名规则。",
+  "platform": "Python",
+  "tags": [
+    "点名软件",
+    "Python",
+    "GUI"
+  ],
+  "reviews": [
+    {
+      "author": "Douxiba",
+      "content": "看起来可以试试，有图有真相，过几天把图加上给大家看看。"
+    },
+    {
+      "author": "2,2,3-三甲基戊烷",
+      "content": "整体来说不错，此外这款软件采用了由RinLit开发的RinUI，太豪堪了，RinLit yyds！！！"
+    }
+  ],
+  "links": {
+    "github_repo": "https://github.com/NamePickerOrg/NamePicker",
+    "developer": {
+      "name": "LHGS-github",
+      "github": "https://github.com/LHGS-github"
+    }
+  }
+}

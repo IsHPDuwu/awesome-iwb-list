@@ -1,0 +1,28 @@
+{
+  "name": "ShowWrite",
+  "description": "ShowWrite 是一款为视频展台、直播教学等场景设计的软件，支持视频展台功能（如文档展台、实物展台等）、屏幕批注、画面录制等功能，能够实现希沃展台与希沃系统的无缝对接，提升教学互动体验。",
+  "platform": "",
+  "tags": [
+    "屏幕批注",
+    "视频展台",
+    "希沃展台",
+    "直播教学",
+    "教学软件",
+    "实物展台",
+    "画面录制",
+    "文档展台"
+  ],
+  "reviews": [
+    {
+      "author": "2,2,3-三甲基戊烷",
+      "content": "之前试过py版的，效果不是很理想，最近这款软件正在用C#重构，感兴趣的可以去他们QQ群插个眼。我也有点打算在班上电脑实装试一下，到时候看一下C#版的效果怎么样。"
+    }
+  ],
+  "links": {
+    "github_repo": "https://github.com/wwcrdrvf6u/ShowWrite",
+    "developer": {
+      "name": "wwcrdrvf6u",
+      "github": "https://github.com/wwcrdrvf6u"
+    }
+  }
+}

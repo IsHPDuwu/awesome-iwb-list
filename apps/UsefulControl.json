@@ -1,0 +1,19 @@
+{
+  "name": "UsefulControl",
+  "description": "这是一个为大屏类电脑（如希沃）编写的实用工具，可以理解为一堆工具的整合包。本软件可以安装在大屏上（例如教学大屏），也可以安装在普通电脑上。",
+  "platform": "大屏类电脑、普通电脑",
+  "tags": [
+    "实用工具",
+    "工具包",
+    "大屏工具",
+    "希沃"
+  ],
+  "reviews": [],
+  "links": {
+    "github_repo": "https://github.com/cjhdevact/UsefulControl",
+    "developer": {
+      "name": "CJH",
+      "github": "https://github.com/cjhdevact"
+    }
+  }
+}

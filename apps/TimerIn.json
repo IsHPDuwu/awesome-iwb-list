@@ -1,0 +1,20 @@
+{
+  "name": "TimerIn",
+  "description": "TimerIn 是由 思锐工作室 开发的一款 桌面时钟小工具软件。支持全屏/横幅提醒，提供了多样的提醒方式，用途广泛；应用会在桌面上显示一个日程窗口，通过多样的规则，在软件内设置日程代办，并以丰富的形式，在预定的时间，有效提醒自己。还可添加个性化的小组件，与桌面完美融合。",
+  "platform": "",
+  "tags": [
+    "桌面小组件",
+    "倒计日",
+    "全屏提醒",
+    "放学提醒",
+    "日程待办"
+  ],
+  "reviews": [],
+  "links": {
+    "github_repo": "https://github.com/SRInternet-Studio/TimerIn_Releases",
+    "developer": {
+      "name": "思锐工作室",
+      "github": "https://github.com/SRInternet-Studio/"
+    }
+  }
+}

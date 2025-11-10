@@ -1,0 +1,18 @@
+{
+  "name": "考试语音播报系统",
+  "description": "考试语音播报系统是一个支持通过语音方式播报的考试看板类软件",
+  "platform": "桌面软件",
+  "tags": [
+    "考试播报",
+    "辅助类软件",
+    "实用工具"
+  ],
+  "reviews": [],
+  "links": {
+    "github_repo": "https://github.com/cloudy059/ExamBroadcast",
+    "developer": {
+      "name": "cloudy059",
+      "github": "https://github.com/cloudy059"
+    }
+  }
+}

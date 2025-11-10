@@ -1,0 +1,22 @@
+{
+  "name": "ClassTools",
+  "description": "这是一个用在班级电脑上面的教室系统，以动态壁纸方式呈现高考倒计时、作业、课程表、值日生等看板，并提供简单易用的设置界面。",
+  "platform": "桌面",
+  "tags": [
+    "动态壁纸",
+    "桌面课程表",
+    "天气预报",
+    "作业看板",
+    "一言",
+    "每日金句",
+    "Electron"
+  ],
+  "reviews": [],
+  "links": {
+    "github_repo": "https://github.com/clansty/ClassTools",
+    "developer": {
+      "name": "凌莞~(=^▽^=)",
+      "github": "https://github.com/clansty"
+    }
+  }
+}

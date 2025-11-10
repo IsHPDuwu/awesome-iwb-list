@@ -1,0 +1,25 @@
+{
+  "name": "考试看板",
+  "description": "DSZ 考试看板。**一款显示当前时间与考试详细信息的看板类软件。**考试看板 皆在提供一个简单明了的 UI 界面用于展示考试信息：可以展示考试名称、当前时间、当前科目名称、开始时间、结束时间、考试状态、考试结束前 15 分钟预警，右面可以展示所有考试列表及开始时间、结束时间和状态，后面会支持集控。",
+  "platform": "Android, iOS, Windows, macOS, Linux",
+  "tags": [
+    "考试看板",
+    "考试倒计时",
+    "Electron",
+    "多平台支持",
+    "移动端支持"
+  ],
+  "reviews": [
+    {
+      "author": "Douxiba",
+      "content": "应该是唯一一个全平台都支持的软件？支持安卓、iOS、Windows、macOS 和 Linux 设备（不过说实话，到底是谁会在 iOS 设备上面用考试看板啊！）至于好不好用，我只能说我用过，还行，但是我们学校没有 **考试看板** 的使用需求。"
+    }
+  ],
+  "links": {
+    "github_repo": "https://github.com/ExamAware/dsz-exam-showboard",
+    "developer": {
+      "name": "Hello8693",
+      "github": "Hello8693"
+    }
+  }
+}

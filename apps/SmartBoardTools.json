@@ -1,0 +1,17 @@
+{
+  "name": "SmartBoardTools",
+  "description": "看板软件。使用原生JavaScript制作。主要亮点在于其中内置了强大的AI功能。",
+  "platform": "",
+  "tags": [
+    "课程表",
+    "AI"
+  ],
+  "reviews": [],
+  "links": {
+    "github_repo": "https://github.com/FeedWhisper5148/SmartBoardTools_OpenSourced",
+    "developer": {
+      "name": "FeedWhisper5148",
+      "github": "https://github.com/FeedWhisper5148"
+    }
+  }
+}

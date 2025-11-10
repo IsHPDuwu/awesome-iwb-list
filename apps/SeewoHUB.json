@@ -1,0 +1,19 @@
+{
+  "name": "SeewoHUB",
+  "description": "一款方便、快捷的下载各类 希沃一体机教学软件 的软件",
+  "platform": "Windows",
+  "tags": [
+    "Seewo",
+    "Teaching",
+    "Software",
+    "Downloader"
+  ],
+  "reviews": [],
+  "links": {
+    "github_repo": "https://github.com/CNwenwen/SeewoHUB",
+    "developer": {
+      "name": "Hyjthfhtself",
+      "github": "https://github.com/CNwenwen"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PPT 触屏辅助 (PowerPoint Touch Assist)",
+  "description": "此程序让你能在 Windows 10/11 中更高效地以“单击”翻页，为 PowerPoint 演示提供触屏辅助功能。",
+  "platform": "Windows 10/11",
+  "tags": [
+    "PowerPoint",
+    "Touch",
+    "Assist",
+    "Productivity",
+    "Windows",
+    "Presentation"
+  ],
+  "reviews": [],
+  "links": {
+    "github_repo": "https://github.com/RinLit-233-shiroko/PowerPoint-Touch-Assist",
+    "developer": {
+      "name": "RinLit",
+      "github": "https://github.com/RinLit-233-shiroko"
+    }
+  }
+}

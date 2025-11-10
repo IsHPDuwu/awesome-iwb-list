@@ -1,0 +1,26 @@
+{
+  "name": "Auto Login for EasiNote",
+  "description": "一个轻量级CLI工具，用Python编写，专门用于一键自动登录希沃白板。基于PyAutoGUI实现图像识别与自动点击，能在希沃一体机或Windows电脑上完成账号密码输入与登录操作。支持与ClassIsland的「自动化」功能联动，实现按课表自动切换老师账号，提供4K适配、登录前预警提示、日志输出等选项。",
+  "platform": "Windows",
+  "tags": [
+    "自动登录",
+    "希沃白板",
+    "PyAutoGUI",
+    "ClassIsland",
+    "CLI工具",
+    "Python"
+  ],
+  "reviews": [
+    {
+      "author": "2,2,3-三甲基戊烷",
+      "content": "在希沃白板账号切换频繁的班级里，这款小工具简直是救星！一条命令就完成登录，配合ClassIsland还能按课表自动切号，彻底告别\"上课3分钟，登录5分钟\"的尴尬。作者贴心地加了4K适配和确认弹窗，既稳又人性化。"
+    }
+  ],
+  "links": {
+    "github_repo": "https://github.com/hxabcd/auto-login-for-easinote",
+    "developer": {
+      "name": "hxabcd",
+      "github": "https://github.com/hxabcd"
+    }
+  }
+}

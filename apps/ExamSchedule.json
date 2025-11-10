@@ -1,0 +1,21 @@
+{
+  "name": "ExamSchedule",
+  "description": "考试看板网页版。一款显示当前时间与考试详细信息的看板类服务。ExamSchedule 旨在提供一个简单明了的 Web 服务用于展示考试信息：可以实时显示当前时间、当前考试科目、考试起止时间、剩余时间及考试状态。支持设置时间偏移和考场信息，并保存到浏览器 Cookie 中。同时还内置了电子钟表的版本（也就是没有考试支持的考试看板）。",
+  "platform": "Web, Mobile",
+  "tags": [
+    "考试看板",
+    "考试倒计时",
+    "电子钟表",
+    "多平台支持",
+    "Web",
+    "移动端支持"
+  ],
+  "reviews": [],
+  "links": {
+    "github_repo": "https://github.com/ExamAware/ExamSchedule",
+    "developer": {
+      "name": "MKStoler1024",
+      "github": "https://github.com/MKStoler1024"
+    }
+  }
+}

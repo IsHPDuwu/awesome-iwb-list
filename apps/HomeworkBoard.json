@@ -1,0 +1,14 @@
+{
+  "name": "HomeworkBoard",
+  "description": "作业板，可以在班级内记录并排版清晰地展示作业、快捷记录出勤情况(无此需求可以去掉这一板块)，可以使用微软手写输入法或拼音(如有实体键盘)快速录入作业",
+  "platform": "",
+  "tags": [],
+  "reviews": [],
+  "links": {
+    "github_repo": "https://github.com/EnderWolf006/HomeworkBoard",
+    "developer": {
+      "name": "EnderWolf006",
+      "github": "https://github.com/EnderWolf006"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "RandPicker",
+  "description": "RandPicker 是一款简单易用的随机抽取工具，支持多种抽取方式，如随机抽取单人、多人、小组等，适用于教学、会议、抽奖等多种场景。它具备语音提示、历史记录、详细抽取记录等功能，并支持多班级名单管理，提供独立抽取与设置界面，拥有便捷悬浮窗设计和自动清除抽取记录功能。",
+  "platform": "",
+  "tags": [
+    "随机抽取",
+    "语音提示",
+    "历史记录",
+    "班级管理",
+    "公平抽取"
+  ],
+  "reviews": [],
+  "links": {
+    "github_repo": "https://github.com/xuanxuan1231/RandPicker",
+    "developer": {
+      "name": "xuanxuan1231",
+      "github": "https://github.com/xuanxuan1231"
+    }
+  }
+}

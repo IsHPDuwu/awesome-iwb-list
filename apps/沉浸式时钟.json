@@ -1,0 +1,23 @@
+{
+  "name": "沉浸式时钟",
+  "description": "沉浸式时钟是一个现代化的全屏时钟应用，支持时钟、倒计时、秒表与晚自习模式，内置天气、噪音提醒及噪音走势图、励志金句、课程表管理。",
+  "platform": "Web",
+  "tags": [
+    "时钟",
+    "倒计时",
+    "秒表",
+    "晚自习模式",
+    "天气",
+    "噪音提醒",
+    "励志金句",
+    "课程表管理"
+  ],
+  "reviews": [],
+  "links": {
+    "github_repo": "https://github.com/QQHKX/Immersive-clock",
+    "developer": {
+      "name": "QQHKX",
+      "github": "https://github.com/QQHKX"
+    }
+  }
+}

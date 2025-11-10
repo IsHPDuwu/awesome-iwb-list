@@ -1,0 +1,19 @@
+{
+  "name": "Sticky-attention",
+  "description": "适用于 Windows 系统教室一体机的作业展示工具，基于 StickyHomeworks 开发，支持富文本、按科目分类、导出作业截图等功能",
+  "platform": "Windows",
+  "tags": [
+    "作业展示",
+    "作业看板",
+    "桌面小工具",
+    "富文本支持"
+  ],
+  "reviews": [],
+  "links": {
+    "github_repo": "https://github.com/Sticky-attention/Sticky-attention",
+    "developer": {
+      "name": "jizilin6732",
+      "github": "https://github.com/jizilin6732"
+    }
+  }
+}

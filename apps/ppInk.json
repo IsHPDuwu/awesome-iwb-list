@@ -1,0 +1,28 @@
+{
+  "name": "ppInk",
+  "description": "ppInk is a user-friendly on-screen annotation software for Windows, compatible with Mouse use, touchscreen or drawing tablet(also with pressure). 源自 gInk，提供了许多新功能，使其更易于使用，功能更强大。ppInk/gInk 的设计秉承了简洁的理念，确保在演示过程中不会分散演示者或观众的注意力。允许您选择不同的笔进行绘图，每支笔都有可配置的属性。",
+  "platform": "Windows",
+  "tags": [
+    "屏幕批注",
+    "屏幕画板",
+    "桌面批注",
+    "WinForm",
+    "桌面放大镜",
+    "印章功能",
+    "直播",
+    "OBS支持"
+  ],
+  "reviews": [
+    {
+      "author": "Douxiba",
+      "content": "这个项目应该算是目前来说，Windows 平台下，开源桌面批注软件里面最强大的一个了，当然缺点也很多，比如 UI 非常丑，其次是墨迹过多会造成卡顿。而且他的 UI 并不适合触摸屏使用，所以我并不推荐在学校的一体机上面使用 ppInk，不过抛开国内教室的特色条件来说，ppInk 作为一个桌面绘图软件，已经完全可用，甚至算够好用了。"
+    }
+  ],
+  "links": {
+    "github_repo": "https://github.com/pubpub-zz/ppInk",
+    "developer": {
+      "name": "pubpub-zz",
+      "github": "https://github.com/pubpub-zz"
+    }
+  }
+}

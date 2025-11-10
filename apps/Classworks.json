@@ -1,0 +1,21 @@
+{
+  "name": "Classworks",
+  "description": "HomeworkBoard的继任者，一个全新的作业板。基于Vue+Vuetify开发，可以在班级内记录并排版清晰地展示作业、快捷记录出勤情况，支持本地/云端存储",
+  "platform": "Web",
+  "tags": [
+    "作业看板",
+    "出勤看板",
+    "多平台支持",
+    "Web",
+    "Vue",
+    "随机点名"
+  ],
+  "reviews": [],
+  "links": {
+    "github_repo": "https://github.com/ZeroCatDev/Classworks",
+    "developer": {
+      "name": "孙悟元",
+      "github": "https://github.com/SunWuyuan"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "OpenLuckyRandom",
+  "description": "A WinForms C# toy app inspired by the LuckyRandom face-recognition random picker. Built with OpenCvSharp4, it supports switching cameras (including virtual ones), choosing Haar cascades, and running on most Windows devices from Windows 7 (.NET 6) and later.",
+  "platform": "Windows",
+  "tags": [
+    "Windows",
+    "C#",
+    "WinForms",
+    "OpenCV",
+    "Random"
+  ],
+  "reviews": [],
+  "links": {
+    "github_repo": "https://github.com/WhatDamon/OpenLuckyRandom",
+    "developer": {
+      "name": "Damon Lu",
+      "github": "https://github.com/WhatDamon"
+    }
+  }
+}

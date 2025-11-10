@@ -1,0 +1,16 @@
+{
+  "name": "教室座位安排系统",
+  "description": "教室座位安排系统是一个基于PyQt5开发的图形化工具，旨在帮助教师和管理人员快速、灵活地安排教室座位。",
+  "platform": "",
+  "tags": [
+    "座位安排"
+  ],
+  "reviews": [],
+  "links": {
+    "github_repo": "https://github.com/xi-guang1/SeatsChanger",
+    "developer": {
+      "name": "xi-guang1",
+      "github": "https://github.com/xi-guang1"
+    }
+  }
+}

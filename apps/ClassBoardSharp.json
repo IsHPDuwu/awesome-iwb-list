@@ -1,0 +1,25 @@
+{
+  "name": "ClassBoardSharp",
+  "description": "ClassBoard 是一款高自由度的，用于显示教学信息的壁纸软件，功能包括高考倒计时、公告栏、以及能够提示当前课程的课程表。ClassBoard 以兼容性为核心（支持希沃老设备），兼顾自由性和可用性（自定义程度高，但是能够做到开箱即用），力求成为一款易用且好用的一体机壁纸软件。",
+  "platform": "Windows",
+  "tags": [
+    "桌面小组件",
+    "课程表",
+    "倒计日",
+    "作业发布",
+    "动态壁纸"
+  ],
+  "reviews": [
+    {
+      "author": "Douxiba",
+      "content": "很小众的项目，和 `clansty/ClassTools` 有点类似。"
+    }
+  ],
+  "links": {
+    "github_repo": "https://github.com/Candlest/ClassBoardSharp",
+    "developer": {
+      "name": "Candlest",
+      "github": "https://github.com/Candlest"
+    }
+  }
+}

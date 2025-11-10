@@ -1,0 +1,26 @@
+{
+  "name": "Ink Canvas",
+  "description": "Ink Canvas is a lightweight WPF/C# drawing board optimized for Seewo (希沃) interactive whiteboards. It provides significantly faster startup (5‑10×) and lower system resource usage compared to the pre‑installed Seewo Whiteboard 5, offering screen annotation, shape recognition, and basic drawing tools. The project has been discontinued and is no longer maintained.",
+  "platform": "Windows",
+  "tags": [
+    "屏幕批注",
+    "屏幕画板",
+    "桌面批注",
+    "Ink Canvas",
+    "白板软件",
+    "形状识别"
+  ],
+  "reviews": [
+    {
+      "author": "Dubi906w",
+      "content": "某种意义上来说，如果你想要一个纯粹的屏幕画板，IC 可以是你的选择之一，同时它的诞生，也才有了后面 ICA 和 ICC 的诞生。如果要在教室里面使用不是很合适。"
+    }
+  ],
+  "links": {
+    "github_repo": "https://github.com/WXRIW/Ink-Canvas",
+    "developer": {
+      "name": "WXRIW",
+      "github": "https://github.com/WXRIW"
+    }
+  }
+}

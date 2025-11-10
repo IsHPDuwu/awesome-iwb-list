@@ -1,0 +1,31 @@
+{
+  "name": "Ink Canvas Plus",
+  "description": "Ink Canvas Plus 是一款由 Clover Yan 维护、复刻自 WXRIW/Ink Canvas 的 Windows 画板应用，旨在优化各方面的使用体验，并尽可能保留原版 Ink Canvas 的操作体验。并且提供了更为简洁直观的用户界面，并修复了诸多原版 Ink Canvas 的问题，易于上手，非常适合课堂教学和个人笔记等场景。无论你是学生、教师还是专业人士，都能轻松使用这款应用进行绘图和笔记。",
+  "platform": "Windows",
+  "tags": [
+    "屏幕绘图",
+    "屏幕批注",
+    "桌面批注",
+    "PPT批注",
+    "白板软件",
+    "边缘手势屏蔽",
+    "Ink Canvas"
+  ],
+  "reviews": [
+    {
+      "author": "2,2,3-三甲基戊烷",
+      "content": "俗话说的好：“（对于开源屏幕批注软件）要稳定inkeys，要好用icp。”而其中的icp便是原版ic的延续，继承了原版ic简洁易用的特点。真心希望后续发展越来越好！"
+    },
+    {
+      "author": "Makitoid",
+      "content": "作为批注软件还是很不错的，但是作为白板软件还是差一点。希望持续的优化！"
+    }
+  ],
+  "links": {
+    "github_repo": "https://github.com/clover-yan/Ink-Canvas-Plus",
+    "developer": {
+      "name": "Clover Yan",
+      "github": "https://github.com/clover-yan"
+    }
+  }
+}

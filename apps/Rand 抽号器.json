@@ -1,0 +1,26 @@
+{
+  "name": "Rand 抽号器",
+  "description": "Rand 是一款简洁、现代化、易用的抽号软件，专为触摸屏设备和 Windows 7 及以上版本操作系统设计，采用 Fluent Design 风格（不过没有使用 iUWM），界面美观且易于操作。可以轻松配置班级名单和座号范围，支持单人和多人模式，保证抽号过程不重复，适用于各类场合的随机抽取。软件还提供暗色模式和自定义设置，能够满足不同需求。尽管当前功能已较为完善，但开发者未来还将优化平衡机制和增加其他功能。",
+  "platform": "Windows 7+ (32-bit/64-bit)",
+  "tags": [
+    "抽号软件",
+    "随机点名",
+    "Fluent Design",
+    "Windows",
+    "暗色模式",
+    "触摸屏"
+  ],
+  "reviews": [
+    {
+      "author": "Douxiba",
+      "content": "这是唯一一个我想试试看的随机点名软件，看起来完成度还是挺高的，过几天去学校电脑上看看用着如何。好用的话再在这里更新一下锐评。"
+    }
+  ],
+  "links": {
+    "github_repo": "https://github.com/LuoYunXi0407/Rand",
+    "developer": {
+      "name": "LuoYunXi",
+      "github": "https://github.com/LuoYunXi0407"
+    }
+  }
+}

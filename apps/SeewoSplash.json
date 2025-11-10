@@ -1,0 +1,20 @@
+{
+  "name": "SeewoSplash",
+  "description": "SeewoSplash 是一个 Fluent 风格的图形化工具，允许你自定义希沃白板的启动图。它提供简洁的界面和多种自定义选项，帮助用户美化启动画面。",
+  "platform": "Windows",
+  "tags": [
+    "希沃白板",
+    "自定义",
+    "美化",
+    "Fluent",
+    "SeewoSplash"
+  ],
+  "reviews": [],
+  "links": {
+    "github_repo": "https://github.com/fengyec2/custom-seewo-splash-screen",
+    "developer": {
+      "name": "fengyec2",
+      "github": "https://github.com/fengyec2"
+    }
+  }
+}
