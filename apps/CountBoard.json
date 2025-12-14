@@ -1,7 +1,7 @@
 {
   "name": "CountBoard",
-  "description": "CountBoard 是一个基于 Tkinter 开源的桌面日程倒计时应用。支持亚克力和毛玻璃 Aero 效果，支持定时提醒和间隔提醒，也支持将计时窗口嵌入到桌面。该项目已停止更新，自带的开机自启功能无法使用。",
-  "platform": "Windows",
+  "description": "CountBoard 是一个基于 Tkinter 开源的桌面日程倒计时应用。支持亚克力和毛玻璃 Aero 效果，支持定时提醒和间隔提醒，也支持将计时窗口嵌入到桌面。该项目已经停止更新。自带的开机自启无法使用。",
+  "platform": "",
   "tags": [
     "桌面小组件",
     "倒计日",
@@ -12,10 +12,10 @@
   ],
   "reviews": [],
   "links": {
-    "github_repo": "https://github.com/Gaoyongxian666/CountBoard",
+    "github_repo": "https://github.com/Gaoyongxian666/CountBoard/",
     "developer": {
       "name": "gaoyongxian",
-      "github": "https://github.com/Gaoyongxian666"
+      "github": "https://github.com/Gaoyongxian666/"
     }
   }
 }

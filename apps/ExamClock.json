@@ -1,0 +1,16 @@
+{
+  "name": "ExamClock",
+  "description": "一款被招安的考试时钟，可以在大屏上展示科目信息、起止时间、考试进度，支持切换年级、文理科。",
+  "platform": "",
+  "tags": [
+    "考试时钟"
+  ],
+  "reviews": [],
+  "links": {
+    "github_repo": "https://github.com/L33Z22L11/ExamClock/",
+    "developer": {
+      "name": "L33Z22L11",
+      "github": "https://github.com/L33Z22L11/"
+    }
+  }
+}

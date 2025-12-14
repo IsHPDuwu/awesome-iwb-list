@@ -1,19 +1,24 @@
 {
   "name": "ElectronClassSchedule",
-  "description": "桌面课程表应用，具有显示当天课表、当前星期、天数倒计时、下课/上课倒计时等功能。支持动态调整课表，支持多周(最多四周)课表轮换，窗口置顶且可穿透。项目已经停止更新，开发者正在开发V2版本。",
-  "platform": "桌面应用 (Electron)",
+  "description": "具显示当天课表，当前星期，天数倒计时，下课/上课倒计时等功能。支持动态调整课表，支持多周(最多四周)课表轮换，窗口置顶且可穿透。\n软件由一位高三牲制作，含有大量屎山代码，望大家海涵。",
+  "platform": "",
   "tags": [
     "桌面小组件",
     "课程表",
     "单双周轮换",
     "Electron"
   ],
-  "reviews": [],
+  "reviews": [
+    {
+      "author": "",
+      "content": "该项目已经停止更新。开发者正在开发 [V2](https://github.com/EnderWolf006/ElectronClassSchedule/tree/ECS2.0) 版本，如有需要可前去插眼观望。Awesome-Iwb 会等到 [V2](https://github.com/EnderWolf006/ElectronClassSchedule/tree/ECS2.0) 版本发展到一定程度后添加进来。"
+    }
+  ],
   "links": {
-    "github_repo": "https://github.com/EnderWolf006/ElectronClassSchedule",
+    "github_repo": "https://github.com/EnderWolf006/ElectronClassSchedule/",
     "developer": {
       "name": "EnderWolf006",
-      "github": "https://github.com/EnderWolf006"
+      "github": "https://github.com/EnderWolf006/"
     }
   }
 }

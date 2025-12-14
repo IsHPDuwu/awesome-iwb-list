@@ -1,0 +1,16 @@
+{
+  "name": "FinitoBoard",
+  "description": "一个教室大屏作业看板",
+  "platform": "",
+  "tags": [
+    "作业看板"
+  ],
+  "reviews": [],
+  "links": {
+    "github_repo": "https://github.com/Xwei1645/finito_board/",
+    "developer": {
+      "name": "Xwei1645",
+      "github": "https://github.com/Xwei1645/"
+    }
+  }
+}

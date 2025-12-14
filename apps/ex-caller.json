@@ -1,20 +1,17 @@
 {
   "name": "ex-caller",
-  "description": "简约风格的随机点名工具，使用 Vue 开发",
-  "platform": "Web (Vue.js)",
+  "description": "简约风格的随机点名工具，使用 Vue 开发。",
+  "platform": "",
   "tags": [
-    "random",
-    "name",
-    "picker",
-    "Vue",
-    "web"
+    "random name generator",
+    "Vue"
   ],
   "reviews": [],
   "links": {
-    "github_repo": "https://github.com/typed-sigterm/ex-caller",
+    "github_repo": "https://github.com/typed-sigterm/ex-caller/",
     "developer": {
       "name": "Typed SIGTERM",
-      "github": "https://github.com/typed-sigterm"
+      "github": "https://github.com/typed-sigterm/"
     }
   }
 }

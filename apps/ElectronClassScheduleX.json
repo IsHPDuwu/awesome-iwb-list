@@ -1,0 +1,17 @@
+{
+  "name": "ElectronClassScheduleX",
+  "description": "一款基于ECS v1进行魔改的电子课表软件",
+  "platform": "",
+  "tags": [
+    "电子课表",
+    "ECS"
+  ],
+  "reviews": [],
+  "links": {
+    "github_repo": "https://github.com/Enigfrank/ElectronClassScheduleX/",
+    "developer": {
+      "name": "Enigfrank",
+      "github": "https://github.com/Enigfrank/"
+    }
+  }
+}

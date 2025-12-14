@@ -1,6 +1,6 @@
 {
   "name": "ShowWrite",
-  "description": "ShowWrite 是一款为视频展台、直播教学等场景设计的软件，支持视频展台功能（如文档展台、实物展台等）、屏幕批注、画面录制等功能，能够实现希沃展台与希沃系统的无缝对接，提升教学互动体验。",
+  "description": "ShowWrite是一款为视频展台、直播教学等场景设计的软件，支持视频展台功能（如文档展台、实物展台等）、屏幕批注、画面录制等功能，能够实现希沃展台与希沃系统的无缝对接，提升教学互动体验。",
   "platform": "",
   "tags": [
     "屏幕批注",
@@ -19,10 +19,10 @@
     }
   ],
   "links": {
-    "github_repo": "https://github.com/wwcrdrvf6u/ShowWrite",
+    "github_repo": "https://github.com/wwcrdrvf6u/ShowWrite/",
     "developer": {
       "name": "wwcrdrvf6u",
-      "github": "https://github.com/wwcrdrvf6u"
+      "github": "https://github.com/wwcrdrvf6u/"
     }
   }
 }

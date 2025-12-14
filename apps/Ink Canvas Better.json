@@ -1,24 +1,24 @@
 {
   "name": "Ink Canvas Better",
-  "description": "基于 InkCanvas/Ink-Canvas-Artistry 开发的 Windows 画板应用，使用 WPF/C# 构建。它在原版 Ink Canvas 的基础上进行了优化和改进，移除了一些非核心功能（如点名工具和计时器），专注于提供更流畅的绘图体验和更简洁的界面。该软件支持多种绘图工具和图层管理功能，适合教学、会议和设计等多种用途。",
+  "description": "Ink Canvas Better 是一款基于 InkCanvas/Ink-Canvas-Artistry 开发的 Windows 画板应用，使用 WPF/C# 构建。它在原版 Ink Canvas 的基础上进行了优化和改进，移除了一些非核心功能（如点名工具和计时器），专注于提供更流畅的绘图体验和更简洁的界面。该软件支持多种绘图工具和图层管理功能，适合教学、会议和设计等多种用途。",
   "platform": "Windows",
   "tags": [
-    "屏幕绘图",
-    "绘图工具",
-    "简洁界面",
-    "教学工具"
+    "Improved InkCanvas",
+    "Drawing Tools",
+    "Simplified UI",
+    "Teaching Tools"
   ],
   "reviews": [
     {
       "author": "2,2,3-三甲基戊烷",
-      "content": "蕾姆了，IC系也是后继有人上了，Ink Canvas Better原来是作者使用IC及其他分支软件时发现一些需要的功能存在缺失而开发的此分支，期待项目后续的发展"
+      "content": "Ink Canvas Better原来是作者使用IC及其他分支软件时发现一些需要的功能存在缺失而开发的此分支，期待项目后续的发展"
     }
   ],
   "links": {
-    "github_repo": "https://github.com/BaiYang2238/Ink-Canvas-Better",
+    "github_repo": "https://github.com/BaiYang2238/Ink-Canvas-Better/",
     "developer": {
       "name": "BaiYang2238",
-      "github": "https://github.com/BaiYang2238"
+      "github": "https://github.com/BaiYang2238/"
     }
   }
 }

@@ -1,0 +1,27 @@
+{
+  "name": "Seewo Custom Start",
+  "description": "定制启动器，旨在让大多数软件的启动方式更加绚丽多彩。为 **希沃白板** 系列量身定做，其他程序也可以使用！🥳",
+  "platform": "",
+  "tags": [
+    "Custom Start",
+    "Software Launcher",
+    "Sihewo Whiteboard"
+  ],
+  "reviews": [
+    {
+      "author": "Douxiba",
+      "content": "如标题所述，如果只是想让希沃白板的 Splash Screen 变得高端大气上档次一些的话，我觉得还是不错的，部分小问题无伤大雅。"
+    },
+    {
+      "author": "Makitoid",
+      "content": "整活神奇，刚开始用时~~被老师骂了~~老师都震惊了。不过高负载情况下可能有卡顿。"
+    }
+  ],
+  "links": {
+    "github_repo": "https://github.com/SRInternet-Studio/Seewo-Custom_Start/",
+    "developer": {
+      "name": "思锐工作室 SR-Studio",
+      "github": "https://github.com/SRInternet-Studio/"
+    }
+  }
+}

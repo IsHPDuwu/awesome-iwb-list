@@ -1,0 +1,24 @@
+{
+  "name": "Ris_ClassTool",
+  "description": "让每堂课都充满活力，让每个学生都能享受到科技带来的教育革新。瑞思课堂工具基于 Electron 开发，是一款 Windows 平台下的，为教学一体机设计开发的一款多功能看板软件，内置了课程表、倒计时等信息看板与侧边栏、专注模式、自动任务、PPT 翻页辅助、随机点名等实用功能。",
+  "platform": "Windows",
+  "tags": [
+    "桌面小组件",
+    "课程表",
+    "倒计日",
+    "投票工具",
+    "侧边栏",
+    "PPT批注",
+    "自动任务",
+    "学科文件夹",
+    "Electron"
+  ],
+  "reviews": [],
+  "links": {
+    "github_repo": "https://github.com/Ris-Soft/Ris_ClassTool/",
+    "developer": {
+      "name": "Ris-Soft",
+      "github": "https://github.com/Ris-Soft/"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "StickyAttention",
+  "description": "一款适用于 Windows 系统教室一体机的作业显示工具，基于 [HelloWRC/StickyHomeworks](https://github.com/HelloWRC/StickyHomeworks/) 开发，可以展示各科作业信息，且支持富文本，按科目分类，导出作业截图等功能。后续将添加更多新内容，敬请期待！",
+  "platform": "Windows",
+  "tags": [
+    "作业展示",
+    "作业看板",
+    "桌面小工具",
+    "富文本支持"
+  ],
+  "reviews": [
+    {
+      "author": "Douxiba",
+      "content": "之前在教室下过一次，不过当时用的时候不知道什么原因，很卡顿，现在不知道怎么样了，不过作为微软草的作业贴的后继者，还是希望这个项目能够持续发展下去吧。目前看来，如果你有 **文本格式的作业展示需求** 的话，最推荐这个，如果你需要展示手写版作业的话，还是用 **[粽子黑板贴](#zongzitek-黑板贴)** 吧！"
+    }
+  ],
+  "links": {
+    "github_repo": "https://github.com/Sticky-attention/Sticky-attention/",
+    "developer": {
+      "name": "jizilin6732",
+      "github": "https://github.com/jizilin6732/"
+    }
+  }
+}

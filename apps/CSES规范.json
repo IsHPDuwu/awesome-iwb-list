@@ -1,0 +1,16 @@
+{
+  "name": "CSES规范",
+  "description": "CSES是一种通用的课程表交换格式，用于在不同软件之间交换课程表。",
+  "platform": "",
+  "tags": [
+    "CSES"
+  ],
+  "reviews": [],
+  "links": {
+    "github_repo": "https://github.com/SmartTeachCN/CSES/",
+    "developer": {
+      "name": "UnDefFtr",
+      "github": "https://github.com/UnDefFtr/"
+    }
+  }
+}

@@ -1,17 +1,20 @@
 {
   "name": "ClassPaper",
-  "description": "ClassPaper v4 是一款现代化桌面课程表/壁纸/告示牌应用，基于Rust + alcro构建。",
-  "platform": "Desktop",
+  "description": "ClassPaper v4 是一款现代化桌面课程表/壁纸/告示牌应用，基于Rust + alcro构建。它提供了课程表和事件提醒功能。",
+  "platform": "Cross-platform",
   "tags": [
     "课程表",
-    "事件提醒"
+    "事件提醒",
+    "桌面应用",
+    "Rust",
+    "alcro"
   ],
   "reviews": [],
   "links": {
-    "github_repo": "https://github.com/E7G/Classpaper-v4",
+    "github_repo": "E7G/Classpaper-v4",
     "developer": {
       "name": "E7G",
-      "github": "https://github.com/E7G"
+      "github": "E7G"
     }
   }
 }

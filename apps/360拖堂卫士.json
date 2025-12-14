@@ -1,6 +1,6 @@
 {
   "name": "360拖堂卫士",
-  "description": "是一款防拖堂软件，会在下课时间弹窗警告，必要时强制关闭PPT、希沃白板等教学软件，保障学生充足的下课休息时间",
+  "description": "是一款防拖堂软件，会在下课时间弹窗警告，必要时强制关闭PPT、希沃白板等教学软件，保障学生充足的下课休息时间。",
   "platform": "",
   "tags": [
     "防拖堂"
@@ -10,7 +10,7 @@
     "github_repo": "https://github.com/BSOD-MEMZ/360-Class-Guard",
     "developer": {
       "name": "BSOD-MEMZ",
-      "github": "https://github.com/BSOD-MEMZ"
+      "github": "https://github.com/BSOD-MEMZ/"
     }
   }
 }

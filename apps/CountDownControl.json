@@ -1,20 +1,25 @@
 {
   "name": "CountDownControl",
   "description": "这是一个支持高度自定义的倒计时小工具。本软件可以安装在大屏上（例如教学大屏），也可以安装在普通电脑上。支持最基础的倒计日功能，可支持自定义倒计时显示文字，内置多种主题可供切换。",
-  "platform": "Windows",
+  "platform": "web, desktop",
   "tags": [
     "countdown",
     "timer",
     "customization",
-    "desktop",
-    "C#"
+    "kiosk",
+    "school"
   ],
-  "reviews": [],
+  "reviews": [
+    {
+      "author": "CJH",
+      "content": "这是一个支持高度自定义的倒计时小工具。本软件可以安装在大屏上（例如教学大屏），也可以安装在普通电脑上。支持最基础的倒计日功能，可支持自定义倒计时显示文字，内置多种主题可供切换。"
+    }
+  ],
   "links": {
-    "github_repo": "https://github.com/cjhdevact/CountDownControl",
+    "github_repo": "https://github.com/cjhdevact/CountDownControl/",
     "developer": {
       "name": "CJH",
-      "github": "https://github.com/cjhdevact"
+      "github": "https://github.com/cjhdevact/"
     }
   }
 }

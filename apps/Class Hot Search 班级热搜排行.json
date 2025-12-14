@@ -1,6 +1,6 @@
 {
   "name": "Class Hot Search 班级热搜排行",
-  "description": "班级热搜排行榜 是一款适用于班级多媒体大屏等场景，展示不同事件热度并支持投票的互动小工具。通过创新的热点的形式记录事件，以及投票的方式来提升不同事件的优先级，班级热搜能活跃氛围，更增进同学情谊。通过高自由度和流畅的交互设计以及 Material Design 3 先进的设计和动画风格，该软件对纯触摸交互也具有良好的兼容性。",
+  "description": "班级热搜排行榜是一款适用于班级多媒体大屏等场景，展示不同事件热度并支持投票的互动小工具。通过创新的热点的形式记录事件，并通过投票的方式提升不同事件的优先级。该软件能够活跃课堂氛围，并增进同学情谊。",
   "platform": "",
   "tags": [
     "桌面小组件",
@@ -10,15 +10,15 @@
   ],
   "reviews": [
     {
-      "author": "Makitoid",
+      "author": "Makitoid 锐评",
       "content": "由于mdui渲染太吃内存，反应并不是很灵敏。且由于软件设置的是实时更新，会导致投票时榜单一跳一跳的不好操作。以现在的体验来看，作为整活工具是可以的，作为投票器不好用"
     }
   ],
   "links": {
-    "github_repo": "https://github.com/SRInternet-Studio/Class_Hot_Search",
+    "github_repo": "https://github.com/SRInternet-Studio/Class_Hot_Search/",
     "developer": {
       "name": "思锐工作室 SR-Studio",
-      "github": "https://github.com/SRInternet-Studio"
+      "github": "https://github.com/SRInternet-Studio/"
     }
   }
 }

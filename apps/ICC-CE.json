@@ -15,14 +15,14 @@
   "reviews": [
     {
       "author": "2,2,3-三甲基戊烷",
-      "content": "众所周知，InkCanvasForClass 在不久之前就停更了，而这个社区版则完美弥补了停更所造成的空白，也是IC系列为数不多的活跃项目。目前这个社区版还有诸多大大小小的的bug亟待解决和部分操作逻辑的优化，请诸位遇到bug尽量发个issue，好让开发者定位问题，谢谢。"
+      "content": "~~太好了，是ICC社区版，我们有救了！~~ 众所周知，InkCanvasForClass 在不久之前就停更了，而这个社区版则完美弥补了停更所造成的空白，也是IC系列为数不多的活跃项目。~~ICC石山还是太多了~~，目前这个社区版还有诸多大大小小的的bug亟待解决和部分操作逻辑的优化（~~历史遗留问题是吧……~~），请诸位遇到bug尽量发个issue，好让开发者定位问题，谢谢。"
     }
   ],
   "links": {
-    "github_repo": "https://github.com/InkCanvasForClass/community",
+    "github_repo": "https://github.com/InkCanvasForClass/community/",
     "developer": {
       "name": "CJKmkp",
-      "github": "https://github.com/CJKmkp"
+      "github": "https://github.com/CJKmkp/"
     }
   }
 }

@@ -1,27 +1,29 @@
 {
   "name": "MythwareToolkit",
-  "description": "极域工具包，支持多种控制极域以及学生机房管理助手的工具。支持不依赖 taskkill、ntsd 等工具杀掉极域。极域未运行时可启动极域，降权到登录用户（路径来自注册表），可显示极域存活状态、解除极域网络限制功能、解除极域 U 盘限制功能、窗口化/全屏化极域广播，支持解极域键盘锁。因为我们学校的教室电脑被安装了极域学生端用于集控，找到了这个项目，帮助很大。",
-  "platform": "Windows",
+  "description": "极域工具包，支持多种控制极域以及学生机房管理助手的工具，如 StudentMain、Mythware、Jiyu，支持不依赖 taskkill、ntsd 等工具杀掉极域。极域未运行时可启动极域，降权到登录用户（路径来自注册表），可显示极域存活状态、解除极域网络限制功能、解除极域 U 盘限制功能、窗口化/全屏化极域广播，支持解极域键盘锁。",
+  "platform": "",
   "tags": [
-    "极域",
-    "工具",
+    "控制极域",
     "学生机房管理",
-    "Windows",
-    "教育",
-    "管理",
-    "工具包"
+    "极域未运行",
+    "启动极域",
+    "降权",
+    "极域存活状态",
+    "解除网络限制",
+    "解除 U 盘限制",
+    "极域广播"
   ],
   "reviews": [
     {
-      "author": "",
-      "content": "因为我们学校的教室电脑被安装了极域学生端用于集控，找到了这个项目，帮助很大。"
+      "author": "因为我们的学校的教室电脑被安装了极域学生端用于集控,",
+      "content": "找到了这个项目,帮助很大。"
     }
   ],
   "links": {
-    "github_repo": "https://github.com/BengbuGuards/MythwareToolkit",
+    "github_repo": "https://github.com/BengbuGuards/MythwareToolkit/",
     "developer": {
       "name": "小流汗黄豆",
-      "github": "https://github.com/BengbuGuards"
+      "github": "https://github.com/BengbuGuards/"
     }
   }
 }

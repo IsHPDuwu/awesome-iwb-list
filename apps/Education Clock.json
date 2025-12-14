@@ -1,7 +1,7 @@
 {
   "name": "Education Clock",
-  "description": "Education Clock 是适用于学校的桌面时钟软件，提供倒计时、桌面时钟、课程表、天气预报、自动新闻联播、定时关机、消息通知栏、随机点名等功能，是一个实用的班级信息看板。",
-  "platform": "Cross-platform (PyQt)",
+  "description": "Education Clock 是一个实用的班级信息看板。是一款适合学校使用的桌面时钟软件，该软件具有：倒计时 、桌面时钟、课程表、天气预报、自动新闻联播、定时关机、消息通知栏、随机点名等功能。",
+  "platform": "桌面",
   "tags": [
     "桌面小组件",
     "课程表",
@@ -13,10 +13,10 @@
   ],
   "reviews": [],
   "links": {
-    "github_repo": "https://github.com/Return-Log/Education-Clock",
+    "github_repo": "https://github.com/Return-Log/Education-Clock/",
     "developer": {
       "name": "Return-Log",
-      "github": "https://github.com/Return-Log"
+      "github": "https://github.com/Return-Log/"
     }
   }
 }

@@ -14,7 +14,7 @@
   "reviews": [
     {
       "author": "2,2,3-三甲基戊烷",
-      "content": "俗话说的好：“（对于开源屏幕批注软件）要稳定inkeys，要好用icp。”而其中的icp便是原版ic的延续，继承了原版ic简洁易用的特点。真心希望后续发展越来越好！"
+      "content": "俗话说的好：（对于开源屏幕批注软件）要稳定inkeys，要好用icp。而其中的icp便是原版ic的延续，继承了原版ic简洁易用的特点。真心希望后续发展越来越好！"
     },
     {
       "author": "Makitoid",
@@ -22,10 +22,10 @@
     }
   ],
   "links": {
-    "github_repo": "https://github.com/clover-yan/Ink-Canvas-Plus",
+    "github_repo": "https://github.com/clover-yan/Ink-Canvas-Plus/",
     "developer": {
       "name": "Clover Yan",
-      "github": "https://github.com/clover-yan"
+      "github": "https://github.com/clover-yan/"
     }
   }
 }

@@ -1,16 +1,21 @@
 {
   "name": "ClassWebsite",
   "description": "ClassWebsite是一个网页类项目，它可以用来为您的班级建立专属的班级网页。",
-  "platform": "Web",
+  "platform": "",
   "tags": [
     "网页"
   ],
-  "reviews": [],
+  "reviews": [
+    {
+      "author": "未提供作者信息",
+      "content": "未提供评论内容"
+    }
+  ],
   "links": {
-    "github_repo": "https://github.com/jiugulixiaoniu/Class-Website-V2.5",
+    "github_repo": "https://github.com/jiugulixiaoniu/Class-Website-V2.5/",
     "developer": {
       "name": "jiugulixiaoniu",
-      "github": "https://github.com/jiugulixiaoniu"
+      "github": "https://github.com/jiugulixiaoniu/"
     }
   }
 }

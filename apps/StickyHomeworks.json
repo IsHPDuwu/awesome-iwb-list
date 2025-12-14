@@ -1,19 +1,23 @@
 {
   "name": "StickyHomeworks",
   "description": "一款支持富文本的桌面作业贴工具。支持按科目分组作业、为作业添加标签、自动清理过期作业、导出作业截图等功能。",
-  "platform": "桌面应用",
+  "platform": "",
   "tags": [
-    "富文本",
-    "桌面应用",
-    "作业管理",
-    "学习工具"
+    "learning tools",
+    "homework management",
+    "desktop application"
   ],
-  "reviews": [],
+  "reviews": [
+    {
+      "author": "",
+      "content": "该项目已经停止更新，并由 `jizilin6732` 接手。"
+    }
+  ],
   "links": {
-    "github_repo": "https://github.com/HelloWRC/StickyHomeworks",
+    "github_repo": "https://github.com/HelloWRC/StickyHomeworks/",
     "developer": {
       "name": "HelloWRC",
-      "github": "https://github.com/HelloWRC"
+      "github": "https://github.com/HelloWRC/"
     }
   }
 }

@@ -1,0 +1,16 @@
+{
+  "name": "HugoAura",
+  "description": "一个希沃管家注入式修改方案",
+  "platform": "",
+  "tags": [
+    "希沃管家"
+  ],
+  "reviews": [],
+  "links": {
+    "github_repo": "https://github.com/HugoAura/Seewo-HugoAura/",
+    "developer": {
+      "name": "Minoricew",
+      "github": "https://github.com/Minoricew/"
+    }
+  }
+}

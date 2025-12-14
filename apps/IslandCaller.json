@@ -1,25 +1,23 @@
 {
   "name": "IslandCaller",
   "description": "IslandCaller 是一个基于 ClassIsland 提醒服务的轻量级点名器，用于在课堂上快速点名。输入班级名单后，可以通过桌面快捷方式快速点名。依赖 ClassIsland 的提醒服务，通过注册 URL 协议来创建桌面快捷方式或浏览器书签实现快速点名。",
-  "platform": "Windows (基于 ClassIsland)",
+  "platform": "",
   "tags": [
     "点名器",
-    "ClassIsland 插件",
-    "提醒服务",
-    "教育工具",
-    "轻量级"
+    "ClassIsland",
+    "桌面快捷方式"
   ],
   "reviews": [
     {
-      "author": "Douxiba 锐评",
-      "content": "有幸体验过该项目，但是目前来说真的很轻量，就只支持创建快捷方式到桌面。编辑名单的体验并不是很好。只能说，作为一个 ClassIsland 插件来说，依托于 ClassIsland 的提醒服务，安装方便，易于使用的确是优点，但是部分基本功能的缺乏，以及自定义性还有待加强，而且 ClassIsland 的提醒众所周知，文字都比较小，刚好抽选到的学生名字又是显示为提醒内容，导致可读性不高，看着不明显。希望后续能有所改进。"
+      "author": "Douxiba",
+      "content": "有幸体验过该项目，但是目前来说真的很「轻量」，就只支持创建快捷方式到桌面。编辑名单的体验并不是很好。只能说，作为一个 ClassIsland 插件来说，依托于 ClassIsland 的提醒服务，安装方便，易于使用的确是优点，但是部分基本功能的缺乏，以及自定义性还有待加强，而且 ClassIsland 的提醒众所周知，文字都比较小，刚好抽选到的学生名字又是显示为提醒内容，导致可读性不高，看着不明显。希望后续能有所改进。"
     }
   ],
   "links": {
-    "github_repo": "https://github.com/HUSX100/IslandCaller",
+    "github_repo": "https://github.com/HUSX100/IslandCaller/",
     "developer": {
       "name": "HUSX100",
-      "github": "https://github.com/HUSX100"
+      "github": "https://github.com/HUSX100/"
     }
   }
 }

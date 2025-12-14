@@ -1,0 +1,16 @@
+{
+  "name": "学生任务分配系统",
+  "description": "简单而优雅的课堂任务分配工具。",
+  "platform": "Web",
+  "tags": [
+    "任务分配"
+  ],
+  "reviews": [],
+  "links": {
+    "github_repo": "https://github.com/VacuolePaoo/stu-task-generate/",
+    "developer": {
+      "name": "VacuolePaoo",
+      "github": "https://github.com/VacuolePaoo/"
+    }
+  }
+}

@@ -1,16 +1,18 @@
 {
   "name": "Class-Scoring-Program",
-  "description": "用于协助班委统计和分析班级同学量化积分的程序，支持积分管理、批量加扣分、作业统计、分组管理等功能",
-  "platform": "GitHub",
+  "description": "Class-Scoring-Program是一个用于协助班委统计和分析班级同学量化积分的程序，支持积分管理、批量加扣分、作业统计、分组管理等功能。",
+  "platform": "",
   "tags": [
     "积分"
   ],
-  "reviews": [],
+  "reviews": [
+    {}
+  ],
   "links": {
-    "github_repo": "https://github.com/andycey/Class-Scoring-Program",
+    "github_repo": "https://github.com/andycey/Class-Scoring-Program/",
     "developer": {
       "name": "andycey",
-      "github": "https://github.com/andycey"
+      "github": "https://github.com/andycey/"
     }
   }
 }

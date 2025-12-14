@@ -1,0 +1,16 @@
+{
+  "name": "ClassAware",
+  "description": "一款基于Flutter的跨平台的电子班牌APP。",
+  "platform": "Flutter",
+  "tags": [
+    "classboard"
+  ],
+  "reviews": [],
+  "links": {
+    "github_repo": "https://github.com/unDefFtr/ClassAware/",
+    "developer": {
+      "name": "unDefFtr",
+      "github": "https://github.com/unDefFtr/"
+    }
+  }
+}

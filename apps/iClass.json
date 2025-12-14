@@ -1,0 +1,8 @@
+{
+  "name": "iClass",
+  "description": "一个使用 Electron 和 Vue 3 构建的教室大屏实用工具箱。",
+  "platform": "Electron + Vue 3",
+  "tags": [
+    "课程表"
+  ]
+}

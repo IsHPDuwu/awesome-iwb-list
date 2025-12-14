@@ -1,0 +1,16 @@
+{
+  "name": "考试倒计时桌面小工具",
+  "description": "一个简洁、实用的桌面倒计时小工具，帮助学生及家长精准掌握距离中考/高考的剩余时间。",
+  "platform": "桌面",
+  "tags": [
+    "倒计时"
+  ],
+  "reviews": [],
+  "links": {
+    "github_repo": "https://github.com/Zpcin/ExaminationCountdown/",
+    "developer": {
+      "name": "Zpcin",
+      "github": "https://github.com/Zpcin/"
+    }
+  }
+}

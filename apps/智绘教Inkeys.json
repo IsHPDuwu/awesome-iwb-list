@@ -15,14 +15,14 @@
   "reviews": [
     {
       "author": "Douxiba",
-      "content": "用下来总体体验是不错的，自带了屏幕冻结这个好功能，还有桌面画板悬浮窗拦截，以及各种强制置顶，多虚拟桌面 Pin，多显示器适配等，这些功能都很不错，甚至有些都是被 ICC 给借鉴过去了的功能，比较推荐使用。最近出了内测版本，用 **Fluent Design System** 重构了设置页面，非常好看（有需要可以加入他们的 QQ 群了解更多，2024 年 12 月 4 日更新）"
+      "content": "用下来总体体验是不错的，自带了屏幕冻结这个好功能，还有桌面画板悬浮窗拦截，以及各种强制置顶，多虚拟桌面 Pin，多显示器适配等，这些功能都很不错，甚至有些都是被 ICC 给借鉴过去了的功能，比较推荐使用。最近出了内测版本，用 Fluent Design System 重构了设置页面，非常好看（有需要可以加入他们的 QQ 群了解更多，2024 年 12 月 4 日更新）"
     }
   ],
   "links": {
-    "github_repo": "https://github.com/Alan-CRL/Inkeys",
+    "github_repo": "https://github.com/Alan-CRL/Inkeys/",
     "developer": {
       "name": "Alan-CRL",
-      "github": "https://github.com/Alan-CRL"
+      "github": "https://github.com/Alan-CRL/"
     }
   }
 }
